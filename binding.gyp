@@ -9,7 +9,7 @@
                 "boolberry.cc",
                 "c11.c",
                 "cryptonight.c",
-				"cryptonight_fast.c",
+		"cryptonight_fast.c",
                 "fresh.c",
                 "fugue.c",
                 "groestl.c",
@@ -31,6 +31,7 @@
                 "x16r.c",
                 "x16rv2.c",
                 "minotaur.c",
+                "minotaurx.c",
                 "sha3/sph_hefty1.c",
                 "sha3/sph_fugue.c",
                 "sha3/aes_helper.c",
@@ -62,6 +63,8 @@
                 "crypto/aesb.c",
                 "crypto/wild_keccak.cpp",
                 "neoscrypt.c",
+                "yespower/sha256.c",
+                "yespower/yespower.c"
             ],
             "include_dirs": [
                 "crypto",
